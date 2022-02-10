@@ -7,11 +7,13 @@ No more birthday cards ending up in the trash. With NFT Birthday Cards you can c
 ## Project info:
 
 - Website demo [https://nft-cards.netlify.app/](https://nft-cards.netlify.app/)
-- Video link: youtube.com/dsdg
+- Video link: https://youtu.be/4OfKt1ALEJY
 - Discord: metaversemoon#4240
 - UnstoppableDomain email account: metaversemoon@gmail.com
 
 ---
+
+![Main Page](https://raw.githubusercontent.com/metaversemoon/NFT-cards/main/collection.png) <br> <br>
 
 ### Project Full details:
 
@@ -70,8 +72,6 @@ NFTStorage: the data is stored on NFTStorage IPFS, the generated hash (CID) will
 * Frontend: React Js for the frontend, Material-UI, and Web3 to connect to the blockchain.
 
 * Summary: This project is made using solidity for the smart contract, ReactJs, Material-UI for the frontend, Truffle for compiler, Covalent to gather users ERC20 tokens, NFTPort for minting NFTs on the Mumbai network. IPFSto store the NFT birthday card images and metadata. Deployed on Harmony testnet for cheap fees. ENS to allow users to enter their address to receive NFTs.
-
-![Main Page]() <br> <br>
 
 # Getting Started
 
