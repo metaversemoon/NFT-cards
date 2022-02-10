@@ -6,7 +6,7 @@ No more birthday cards ending up in the trash. With NFT Birthday Cards you can c
 
 ## Project info:
 
-- Website demo [https://nft-cards.netlify.app/](https://nft-cards.netlify.app/)
+- Website demo [https://nft-birthday-cards.netlify.app](https://nft-birthday-cards.netlify.app/)
 - Video link: https://youtu.be/4OfKt1ALEJY
 - Discord: metaversemoon#4240
 - UnstoppableDomain email account: metaversemoon@gmail.com
